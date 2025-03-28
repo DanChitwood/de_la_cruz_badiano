@@ -1,8 +1,6 @@
 import os
 import time
-from collections import Counter
 
-import numpy as np
 import openai
 import pandas as pd
 from dotenv import load_dotenv
